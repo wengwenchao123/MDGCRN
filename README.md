@@ -1,6 +1,6 @@
 # Multi-scale Fusion Dynamic Graph Convolutional Recurrent Network for Traffic Forecasting
 
-This is a PyTorch implementation of Multi-scale Fusion Dynamic Graph Convolutional Recurrent Network for Traffic Forecasting, Junbi Xiao, Wenjing Zhang, Wenchao Weng, Yuhao Zhou*, Yunhuan Cong.
+This is a PyTorch implementation of [Multi-scale Fusion Dynamic Graph Convolutional Recurrent Network for Traffic Forecasting](https://doi.org/10.1007/s10586-024-04869-7), Junbi Xiao, Wenjing Zhang, Wenchao Weng, Yuhao Zhou*, Yunhuan Cong.
 
 ## Table of Contents
 
